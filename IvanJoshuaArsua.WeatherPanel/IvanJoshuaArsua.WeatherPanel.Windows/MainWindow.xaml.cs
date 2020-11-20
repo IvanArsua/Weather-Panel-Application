@@ -24,5 +24,10 @@ namespace IvanJoshuaArsua.WeatherPanel.Windows
         {
             InitializeComponent();
         }
+
+        private void btnGetWeather_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="59" Margin="24,28,0,0" VerticalAlignment="Top" Width="516" FontSize="36"/>
-        <Button x:Name="btnGetWeather" Content="Get Weather" HorizontalAlignment="Left" Height="42" Margin="366,114,0,0" VerticalAlignment="Top" Width="174" FontSize="24"/>
+        <Button x:Name="btnGetWeather" Content="Get Weather" HorizontalAlignment="Left" Height="42" Margin="366,114,0,0" VerticalAlignment="Top" Width="174" FontSize="24" Click="btnGetWeather_Click"/>
 
     </Grid>
 </Window>
