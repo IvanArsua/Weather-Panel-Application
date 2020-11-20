@@ -1,5 +1,6 @@
 ﻿using System;
 using RestSharp;
+using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -35,6 +36,8 @@ namespace IvanJoshuaArsua.WeatherPanel.Windows
             IRestResponse response = client.Execute(request);
 
             var content = response.Content;
+
+            var area = JsonConvert.DeserializeObject<WeatherArea>(content);
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
