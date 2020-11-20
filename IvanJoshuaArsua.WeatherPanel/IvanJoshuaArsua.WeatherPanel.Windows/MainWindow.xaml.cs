@@ -41,8 +41,13 @@ namespace IvanJoshuaArsua.WeatherPanel.Windows
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
             lblSummary.Content = area.Currently.Summary;
-            
-                
+            lblPressure.Content = " Pressure :" + area.Currently.pressure;
+            lblHumidity.Content = " Humidity :" + area.Currently.humidity;
+            lblTemperature.Content = " Temperature :" + area.Currently.temperature;
+            lblWindBearing.Content = " WindBearing :" + area.Currently.windBearing;
+            lblWindspeed.Content = " WindSpeed :" + area.Currently.windSpeed;
+            lblSummary1.Content = " Summary : " + area.Currently.Summary;
+
         }
         
     }
