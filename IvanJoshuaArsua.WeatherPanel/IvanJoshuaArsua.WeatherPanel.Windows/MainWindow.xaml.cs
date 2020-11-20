@@ -27,7 +27,7 @@ namespace IvanJoshuaArsua.WeatherPanel.Windows
 
         private void btnGetWeather_Click(object sender, RoutedEventArgs e)
         {
-
+            lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
     }
 }
