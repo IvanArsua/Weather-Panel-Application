@@ -13,3 +13,8 @@ C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.
 C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\obj\Debug\IvanJoshuaArsua.WeatherPanel.Windows.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\obj\Debug\IvanJoshuaArsua.WeatherPanel.Windows.exe
 C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\obj\Debug\IvanJoshuaArsua.WeatherPanel.Windows.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\bin\Debug\RestSharp.dll
+C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\bin\Debug\RestSharp.xml
+C:\Users\Dell\Documents\Major-ICT Activties\Weather Application\IvanJoshuaArsua.WeatherPanel\IvanJoshuaArsua.WeatherPanel.Windows\obj\Debug\IvanJoshuaArsua.WeatherPanel.Windows.csproj.CopyComplete

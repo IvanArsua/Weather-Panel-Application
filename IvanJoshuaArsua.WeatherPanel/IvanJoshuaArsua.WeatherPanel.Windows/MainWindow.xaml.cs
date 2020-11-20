@@ -41,6 +41,9 @@ namespace IvanJoshuaArsua.WeatherPanel.Windows
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
             lblSummary.Content = area.Currently.Summary;
+            
+                
         }
+        
     }
 }
